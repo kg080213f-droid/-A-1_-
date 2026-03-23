@@ -196,7 +196,7 @@ header {
 }
 .banner > a:hover,
 .direct > a:hover{
-  color:#222328;
+  color:  #222328;
   background-color:rgba(255,255,255, 0.5);
 }
 
@@ -266,4 +266,5 @@ footer div:nth-child(3) img{border-radius: 50%;}
   font-weight: bold;
   cursor:pointer;
 }
+
 .btn:hover{background:rgba(114, 63, 251, 0.2); color:#723ffb;}
